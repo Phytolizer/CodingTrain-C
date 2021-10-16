@@ -1,0 +1,4 @@
+/builddir*
+/subprojects/packagecache
+/subprojects/vec
+/subprojects/sds

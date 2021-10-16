@@ -1,0 +1,8 @@
+[meson.build]
+indent_style = space
+indent_size = 2
+
+[*.{c,h}]
+indent_style = space
+indent_size = 2
+
