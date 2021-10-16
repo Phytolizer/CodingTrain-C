@@ -1,6 +1,7 @@
 helper_lib = library(
   'Helper',
-  'Helper.c',
+  'Math.c',
+  'Random.c',
   include_directories : incdir,
   dependencies : common_deps,
 )

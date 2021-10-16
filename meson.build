@@ -6,10 +6,11 @@ project(
 )
 
 raylib_dep = dependency('raylib')
-vec_dep = dependency('vec')
 sds_dep = dependency('sds')
+sodium_dep = dependency('libsodium')
+vec_dep = dependency('vec')
 
-common_deps = [raylib_dep, vec_dep, sds_dep]
+common_deps = [raylib_dep, sodium_dep, sds_dep, vec_dep]
 
 incdir = include_directories('Headers')
 subdir('Sources')
