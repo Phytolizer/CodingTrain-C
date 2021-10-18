@@ -2,3 +2,5 @@
 /subprojects/packagecache
 /subprojects/vec
 /subprojects/sds
+/subprojects/libsodium-win32
+/subprojects/libsodium-win64

@@ -1,0 +1,12 @@
+[wrap-file]
+directory = libsodium-win64
+source_url = https://download.libsodium.org/libsodium/releases/libsodium-1.0.18-stable-mingw.tar.gz
+source_filename = libsodium-1.0.18-stable-mingw.tar.gz
+source_hash = 8aec9866f07f4fd52a4e330c10dafa347139ad0a01339014b01ef0f4e7db5693
+
+patch_url = https://phytolizer.dev/libsodium.zip
+patch_filename = libsodium.zip
+patch_hash = 103b8abc794734d3f63f446601ecef8d428e95084f0eb92cc591969142735a17
+
+[provide]
+libsodium = sodium_dep
