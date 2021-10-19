@@ -1,0 +1,7 @@
+Coding Train
+============
+Kyle Coffey <me@phytolizer.dev>
+:toc:
+
+Following along with Coding Train's coding challenges, but in C
++ Raylib instead of JavaScript!

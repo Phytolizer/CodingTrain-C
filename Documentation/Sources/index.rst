@@ -10,7 +10,8 @@ Welcome to Coding Train's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   challenge001_starfield
+   challenge003_snake
 
 Indices and tables
 ==================
